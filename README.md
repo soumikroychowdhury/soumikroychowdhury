@@ -4,7 +4,6 @@
 <img width="50%" src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumikroychowdhury&label=Profile%20views&color=0e75b6&style=flat" alt="soumikroychowdhury" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumikroychowdhury" alt="soumikroychowdhury" /></a> </p>
 
 - 🔭 I’m currently working on several applications using **WebRTC and Flutter**
 
@@ -45,6 +44,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="Yarn" width="40" height="40" />
 </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumikroychowdhury&langs_count=10&show_icons=true&locale=en&layout=compact&theme=radical"/></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumikroychowdhury&theme=radical&locale=en"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumikroychowdhury&theme=radical"/></p>
 </div>
