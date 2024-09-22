@@ -20,8 +20,8 @@
 </p>
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/soumikcp" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="soumikcp" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/topprogrammer" target="blank"><img align="center" src="https://assets.codeforces.com/users/kguseva/comments/cf.png" alt="topprogrammer" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/soumikrc" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="soumikcp" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/soumikrc" target="blank"><img align="center" src="https://assets.codeforces.com/users/kguseva/comments/cf.png" alt="topprogrammer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/eventssoumik01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eventssoumik01" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/soumikrc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="soumikrc" height="30" width="40" /></a>
 </p>
