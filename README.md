@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **DSA, DBMS, OS, OOPs, and Computer Networks**
 
-- ⚡ Competitive Programmer: **Specialist at Codeforces**
+- ⚡ Competitive Programmer: **Expert at Codeforces**
 
 <div align ="center">
 <h3 align="left">Connect with me:</h3>
